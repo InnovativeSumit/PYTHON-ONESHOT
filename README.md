@@ -102,6 +102,7 @@ Whether you're a **beginner** or an **experienced developer**, this repo helps y
 
 ## 📄 License
 
-This repository is licensed under the **MIT License**.
+This repository is licensed under the **[MIT License](LICENSE)**.
+
 
 
